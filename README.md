@@ -47,9 +47,14 @@ docker-compose up
 ```
 
 Install GLPI and our selected plugins
-
+```shell
+docker container exec -it glpi-docker_web_1 chmod -R +x /scripts/
+```
 ```shell
 docker container exec -it glpi-docker_web_1 /scripts/full_setup.sh
+```
+```shell
+docker container exec -it glpi-docker_db_1 chmod -R +x /scripts/
 ```
 
 ```shell

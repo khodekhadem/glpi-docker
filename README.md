@@ -1,8 +1,6 @@
 # GLPI on Docker
 
 <div style="display:flex;">
-    <img src="https://glpi-project.org/wp-content/uploads/2017/03/logo-glpi-bleu-1.png" alt="GLPI Logo" width="75"/>
-    <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" alt="Docker Logo" width="75"/>
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="75"/>
     <img src="https://www.phpmyadmin.net/static/images/logo.png?067b638aa2a2" alt="PHPMyAdmin Logo" width="75"/>
     <img src="http://www.apache.org/logos/res/httpd/default.png" alt="Apache Logo" width="75"/>
